@@ -1,2 +1,2 @@
 # UNP-Machine-Learning-Garments-worker-productivity-analysis-Regression-project
-This repository consists analysis of Garments Worker Productivity Analysis using Machine Learning.
+This repository consists analysis of Garments Worker Productivity Analysis using Machine Learning.Our dataset contains 1197 entries across 15 features, including date,department, team, and productivity metrics.Most features are complete; however, 'wip' (work in progress) has 506 missing entries, handled in preprocessing. Our Analytical Focus Emphasis on understanding factors that impact actual productivity, team performance, and departmental efficiency.
